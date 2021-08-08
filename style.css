@@ -255,7 +255,7 @@ left: 0;
 top: 0;
 height: 100%;
 width: 100%;
-background-image:url('./images/images.jpg');
+background-image:url('./images.jpg');
 background-attachment:fixed;
 background-size: cover;
 z-index: -2;
@@ -359,7 +359,7 @@ margin-bottom: 60px;
 /*=====starte seperate section======*/
 .menu-image{
     min-height: 50vh;
-    background: url(images/images\ \(3\).jpg) center/cover fixed no-repeat;
+    background: url(images\ \(3\).jpg) center/cover fixed no-repeat;
 }
 .menu-text{
     min-height: 50vh;
@@ -544,7 +544,7 @@ team section
 /*footer*/
 .footer{
     padding:80px 0 0;
-    background-image: url("images/footer.jpg");
+    background-image: url("footer.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
